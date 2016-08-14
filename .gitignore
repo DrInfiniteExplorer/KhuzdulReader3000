@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+# Dependency information files
+tmp/**/*.d
+
+# Stripped debug information
+out/**/*.debug
